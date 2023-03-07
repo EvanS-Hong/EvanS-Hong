@@ -7,7 +7,7 @@ I'm Evan Hong, a fullstack developer. My interests are in video games and creati
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
-📫 How to reach me: E.hong1424@gmail.com
+📫 How to reach me: E.hong1424@gmail.com Orange Country, CA
 
 
 
